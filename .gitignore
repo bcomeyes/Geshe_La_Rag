@@ -1,0 +1,124 @@
+# Buddhist RAG Project .gitignore
+
+# ============================================================================
+# API Keys and Secrets
+# ============================================================================
+.env
+.env.local
+.env.*.local
+*.key
+secrets/
+
+# ============================================================================
+# Generated Data (Can be recreated by running scripts)
+# ============================================================================
+
+# Vector database
+vector_db/
+*.chroma
+
+# Embeddings (large JSON files)
+embeddings/
+all_embeddings*.json
+
+# Extracted text (if you want to keep these in git, comment this out)
+extracted_text/*.json
+
+# Logs
+logs/
+*.log
+
+# ============================================================================
+# Neo4j Database
+# ============================================================================
+neo4j/
+*.db
+graph.db/
+
+# ============================================================================
+# Python
+# ============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# ============================================================================
+# Jupyter Notebooks
+# ============================================================================
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ============================================================================
+# IDE and Editor
+# ============================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ============================================================================
+# Operating System
+# ============================================================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# ============================================================================
+# Project Specific - Large Files
+# ============================================================================
+# EPUB files (already extracted to JSON)
+epub_directory/
+
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# ============================================================================
+# KEEP THESE (commented out so they're NOT ignored)
+# ============================================================================
+# !README.md
+# !requirements.txt
+# !.env.example
+# !notebooks/*.ipynb
+# !scripts/*.py

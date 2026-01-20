@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "version": "05_phase2_complete",
+    "timestamp": "2026-01-05T18:53:35.377483",
+    "phase": "Phase 2 NLP Pipeline - Complete",
+    "source": "Clear Light of Bliss",
+    "description": "NLP pipeline with NER + RE ready for full book extraction",
+    "next_phase": "Phase 3 - Neo4j Graph Database"
+  },
+  "vocabulary": {
+    "file": "04_final_vocabulary.json",
+    "total_terms": 80,
+    "breakdown": {
+      "nouns": 32,
+      "adj_noun_compounds": 28,
+      "verb_phrases": 18,
+      "adj_prep_patterns": 6
+    },
+    "accuracy_validation": "88% on test paragraphs",
+    "case_variants": 240,
+    "expert_reviewed": true
+  },
+  "entity_recognition": {
+    "implementation": "spaCy EntityRuler",
+    "total_patterns": 240,
+    "case_insensitive": true,
+    "pattern_generation": "lowercase + Capitalized + Title Case variants",
+    "entity_types": {
+      "CONCEPT": "Buddhist concepts and noun phrases (60 unique terms)",
+      "RELATIONSHIP_VERB": "Action relationships (18 unique patterns)",
+      "RELATIONSHIP_ADJPREP": "Attributive relationships (6 unique patterns)"
+    },
+    "pipeline_position": "before ner (for priority matching)",
+    "bug_fixes": [
+      "Case sensitivity issue resolved via pattern variants",
+      "Multi-word expression recognition working",
+      "Domain ambiguity handled (common words in Buddhist context)"
+    ]
+  },
+  "relationship_extraction": {
+    "function_name": "extract_buddhist_relationships_v3",
+    "version": 3,
+    "accuracy": "88%",
+    "test_results": {
+      "total_relationships": 8,
+      "correct": 7,
+      "accuracy_percentage": 87.5
+    },
+    "pattern_types": [
+      {
+        "type": "RELATIONSHIP_VERB",
+        "description": "Entity-Relation-Entity triples via marked relationship verbs",
+        "examples": [
+          "depends upon",
+          "arises from",
+          "dissolve within"
+        ],
+        "method": "Proximity search (±20 token window)"
+      },
+      {
+        "type": "RELATIONSHIP_ADJPREP",
+        "description": "Entity-Relation-Entity triples via adj+prep patterns",
+        "examples": [
+          "inseparable from",
+          "empty of",
+          "free from"
+        ],
+        "method": "Proximity search (±20 token window)"
+      },
+      {
+        "type": "TANTRIC_INSTRUCTION",
+        "description": "Verb-Object-Prepositional phrase pattern",
+        "examples": [
+          "dissolve winds within central channel"
+        ],
+        "method": "Dependency parsing (VERB + dobj + prep + pobj)",
+        "added_in_version": 3
+      },
+      {
+        "type": "PREPOSITION",
+        "description": "Simple spatial/locational relationships",
+        "examples": [
+          "at",
+          "in",
+          "within"
+        ],
+        "method": "Head-modifier dependency"
+      },
+      {
+        "type": "CONJUNCTION",
+        "description": "Coordinated entities",
+        "examples": [
+          "and",
+          "or"
+        ],
+        "method": "Dependency relation conj"
+      }
+    ],
+    "key_improvements": [
+      "v1: 25% accuracy (entity type confusion)",
+      "v2: 67% accuracy (fixed type separation, case sensitivity bug)",
+      "v3: 88% accuracy (added tantric instruction pattern, case variants)"
+    ]
+  },
+  "code_artifacts": {
+    "extraction_function": {
+      "name": "extract_buddhist_relationships_v3",
+      "inputs": "spaCy doc object",
+      "outputs": "List of relationship dictionaries",
+      "output_schema": {
+        "subject": "str (entity text)",
+        "subject_type": "str (entity label)",
+        "relation": "str (relationship text)",
+        "relation_type": "str (pattern type)",
+        "object": "str (entity text)",
+        "object_type": "str (entity label)",
+        "verb": "str (optional, for TANTRIC_INSTRUCTION)"
+      }
+    },
+    "spacy_setup": {
+      "model": "en_core_web_lg",
+      "version": "3.7.4",
+      "pipeline_components": [
+        "tok2vec",
+        "tagger",
+        "parser",
+        "attribute_ruler",
+        "lemmatizer",
+        "entity_ruler",
+        "ner"
+      ]
+    }
+  },
+  "test_results": {
+    "test_paragraph": "Clear light is inseparable from emptiness...",
+    "entities_found": 16,
+    "relationships_found": 8,
+    "sample_extractions": [
+      "Clear light --[INSEPARABLE FROM]--> emptiness",
+      "practice --[depends upon]--> teacher",
+      "mind --[FREE FROM]--> inherent existence",
+      "Great bliss --[ARISES FROM]--> inner fire",
+      "winds --[WITHIN]--> central channel (TANTRIC_INSTRUCTION)",
+      "clear light --[AND]--> sleep"
+    ]
+  },
+  "pending_implementation": {
+    "document_structure": {
+      "status": "NOT IMPLEMENTED",
+      "layer_1_hierarchy": "Book → Chapter → Page → Paragraph",
+      "requirements": [
+        "Parse chapters from JSON",
+        "Detect paragraphs from \\n\\n breaks",
+        "Map character offsets to pages via position_to_page",
+        "Create hierarchy nodes in Neo4j"
+      ]
+    },
+    "source_metadata": {
+      "status": "NOT IMPLEMENTED",
+      "requirements": [
+        "Add book_title to each extraction",
+        "Add chapter_title to each extraction",
+        "Add page_number to each extraction",
+        "Add paragraph_index to each extraction",
+        "Add sentence_index to each extraction",
+        "Add character offsets (start/end)"
+      ]
+    }
+  },
+  "next_steps": {
+    "immediate": [
+      "Implement document structure parsing (Layer 1)",
+      "Add source metadata to relationship extractions",
+      "Extract full Clear Light book (all chapters)",
+      "Save extraction results to JSON"
+    ],
+    "phase_3": [
+      "Install Neo4j",
+      "Design graph schema (dual-layer)",
+      "Populate Layer 1: Document structure hierarchy",
+      "Populate Layer 2: Semantic relationships",
+      "Test graph queries",
+      "Implement dual-mode system (academic + meditation)"
+    ]
+  },
+  "professional_context": {
+    "skills_demonstrated": [
+      "Domain-specific NER customization",
+      "Relationship extraction via dependency parsing",
+      "Iterative refinement based on accuracy metrics",
+      "Rule-based NLP for specialized domains"
+    ],
+    "transferable_to": "Healthcare EMR data, legal documents, financial reports",
+    "architecture_reusability": "Same dual-layer approach for medical NLP"
+  }
+}

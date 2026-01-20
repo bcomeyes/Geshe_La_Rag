@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "timestamp": "2026-01-05T17:12:58.115479",
+    "source": "Clear Light of Bliss",
+    "stage": "03_cleaned_terms",
+    "total_terms": 83
+  },
+  "data": {
+    "nouns": [
+      [
+        "emptiness",
+        229
+      ],
+      [
+        "meditation",
+        161
+      ],
+      [
+        "clear light",
+        153
+      ],
+      [
+        "secret mantra",
+        109
+      ],
+      [
+        "death",
+        109
+      ],
+      [
+        "sleep",
+        91
+      ],
+      [
+        "inner fire",
+        79
+      ],
+      [
+        "spontaneous great bliss",
+        68
+      ],
+      [
+        "wisdom",
+        61
+      ],
+      [
+        "buddhahood",
+        59
+      ],
+      [
+        "heruka",
+        55
+      ],
+      [
+        "bodhichitta",
+        54
+      ],
+      [
+        "merit",
+        52
+      ],
+      [
+        "union",
+        49
+      ],
+      [
+        "mind",
+        49
+      ],
+      [
+        "completion stage",
+        48
+      ],
+      [
+        "enlightenment",
+        48
+      ],
+      [
+        "black near-attainment",
+        46
+      ],
+      [
+        "inherent existence",
+        44
+      ],
+      [
+        "mahamudra",
+        37
+      ],
+      [
+        "ultimate example clear light",
+        36
+      ],
+      [
+        "compassion",
+        35
+      ],
+      [
+        "je tsongkhapa",
+        34
+      ],
+      [
+        "mudra",
+        34
+      ],
+      [
+        "samsara",
+        32
+      ],
+      [
+        "white appearance",
+        30
+      ],
+      [
+        "love",
+        30
+      ],
+      [
+        "negation",
+        30
+      ]
+    ],
+    "adj_noun": [
+      [
+        "clear light",
+        312
+      ],
+      [
+        "illusory body",
+        238
+      ],
+      [
+        "central channel",
+        209
+      ],
+      [
+        "inner fire",
+        133
+      ],
+      [
+        "great bliss",
+        106
+      ],
+      [
+        "isolated mind",
+        72
+      ],
+      [
+        "subtle mind",
+        54
+      ],
+      [
+        "ultimate example",
+        51
+      ],
+      [
+        "intermediate state",
+        49
+      ],
+      [
+        "indestructible drop",
+        49
+      ],
+      [
+        "like appearance",
+        47
+      ],
+      [
+        "inherent existence",
+        45
+      ],
+      [
+        "white drop",
+        43
+      ],
+      [
+        "highest yoga",
+        37
+      ],
+      [
+        "white appearance",
+        34
+      ],
+      [
+        "meditative equipoise",
+        30
+      ],
+      [
+        "subtle wind",
+        29
+      ],
+      [
+        "ordinary beings",
+        29
+      ],
+      [
+        "ultimate nature",
+        28
+      ],
+      [
+        "red increase",
+        28
+      ],
+      [
+        "personal deity",
+        27
+      ],
+      [
+        "mental continuum",
+        27
+      ],
+      [
+        "divine pride",
+        26
+      ],
+      [
+        "generic image",
+        24
+      ],
+      [
+        "mental sinking",
+        24
+      ],
+      [
+        "mental excitement",
+        23
+      ],
+      [
+        "subsequent attainment",
+        21
+      ],
+      [
+        "direct realization",
+        20
+      ],
+      [
+        "subtle minds",
+        20
+      ]
+    ],
+    "verbs": [
+      [
+        "known as",
+        45
+      ],
+      [
+        "meditating on",
+        43
+      ],
+      [
+        "depends upon",
+        34
+      ],
+      [
+        "bringing into",
+        24
+      ],
+      [
+        "relying upon",
+        22
+      ],
+      [
+        "explained in",
+        20
+      ],
+      [
+        "dissolve within",
+        19
+      ],
+      [
+        "included within",
+        17
+      ],
+      [
+        "associated with",
+        17
+      ],
+      [
+        "mounted upon",
+        15
+      ],
+      [
+        "mixing with",
+        14
+      ],
+      [
+        "depending upon",
+        13
+      ],
+      [
+        "dissolves into",
+        12
+      ],
+      [
+        "attained in",
+        12
+      ],
+      [
+        "dissolving into",
+        11
+      ],
+      [
+        "arises from",
+        11
+      ],
+      [
+        "arise from",
+        10
+      ],
+      [
+        "engaging in",
+        10
+      ],
+      [
+        "try should",
+        10
+      ],
+      [
+        "engage to in",
+        10
+      ]
+    ],
+    "adj_prep": [
+      [
+        "free from",
+        20
+      ],
+      [
+        "empty of",
+        14
+      ],
+      [
+        "indicative of",
+        7
+      ],
+      [
+        "inseparable from",
+        7
+      ],
+      [
+        "accustomed to",
+        5
+      ],
+      [
+        "focused on",
+        5
+      ]
+    ]
+  }
+}
