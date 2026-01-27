@@ -360,7 +360,7 @@ print("that will anchor all our semantic relationships in the graph database.")
 # =============================================================================
 
 # Path to the JSON file
-JSON_PATH = r"C:\\Users\\DELL\\Documents\\gesha_la_rag\\extracted_text\\Clear_Light_of_Bliss.json"
+JSON_PATH = os.path.expanduser("~/Documents/gesha_la_rag/extracted_text/Clear_Light_of_Bliss.json")
 
 # Parse the document
 print("PARSING CLEAR LIGHT OF BLISS")
@@ -418,7 +418,7 @@ def save_document_structure(doc_structure: DocumentStructure, output_path: str):
     print(f"  File size: {file_size_mb:.2f} MB")
 
 # Save the structure
-CHECKPOINT_DIR = Path(r"C:\\Users\\DELL\\Documents\\gesha_la_rag\\checkpoints")
+CHECKPOINT_DIR = Path(os.path.expanduser("~/Documents/gesha_la_rag/checkpoints"))
 CHECKPOINT_DIR.mkdir(exist_ok=True)
 
 output_path = CHECKPOINT_DIR / "06_document_structure_layer1.json"
