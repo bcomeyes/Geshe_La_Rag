@@ -1,0 +1,2325 @@
+{
+  "epub_file": "Clear_Light_of_Bliss.epub",
+  "epub_path": "/home/matt/Documents/gesha_la_rag/epub_directory/Clear_Light_of_Bliss.epub",
+  "total_sections": 89,
+  "total_unique_classes": 121,
+  "html_tags_used": {
+    "a": 4019,
+    "p": 3529,
+    "span": 992,
+    "div": 299,
+    "html": 89,
+    "head": 89,
+    "body": 89,
+    "img": 37,
+    "li": 35,
+    "nav": 2,
+    "h2": 2,
+    "ol": 2
+  },
+  "class_inventory": {
+    "Italic": {
+      "count": 520,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "span"
+      ],
+      "sections_count": 30,
+      "samples": [
+        "included at the request of faithful disciples",
+        "Clear Light of Bliss",
+        "Clear Light of Bliss"
+      ]
+    },
+    "Index-level-1": {
+      "count": 412,
+      "role": "BACK_MATTER",
+      "heading_level": 1,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "action mudra111,119–120,",
+        "Action Tantra4",
+        "aggregates91,94–97,"
+      ]
+    },
+    "Index-level-3": {
+      "count": 399,
+      "role": "BACK_MATTER",
+      "heading_level": 3,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "152–154,155,237,250,263,",
+        "266,267",
+        "attaining meaning clear"
+      ]
+    },
+    "Text-2nd-para": {
+      "count": 383,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 31,
+      "samples": [
+        "Find our more atwww.tharpa.com",
+        "I am very happy to learn that Venerable Geshe Kelsang Gyatso has given extensive teachings on Secret Mantra based on Pro...",
+        "Not satisfied merely with giving the teaching, out of his immeasurable kindness Geshe Kelsang then worked closely with h..."
+      ]
+    },
+    "Sadhana-verse-middle": {
+      "count": 264,
+      "role": "VERSE_POETRY",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 4,
+      "samples": [
+        "With great respect and devotion I rely upon Losang Dragpa,",
+        "Who alone is the precious eyes for countless migrators,",
+        "A manifestation of the wisdom of countless omniscient Buddhas,"
+      ]
+    },
+    "Index-level-2": {
+      "count": 252,
+      "role": "BACK_MATTER",
+      "heading_level": 2,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "as external method for",
+        "texts134,140,163,224,225,",
+        "emanation112,113"
+      ]
+    },
+    "Bold-Italic": {
+      "count": 236,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "span"
+      ],
+      "sections_count": 3,
+      "samples": [
+        "Migtsema",
+        "Aggregate",
+        "Alertness"
+      ]
+    },
+    "Glossary-entry": {
+      "count": 153,
+      "role": "BACK_MATTER",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "AggregateIn general, all functioning things are aggregates because they are an aggregation of their parts. In particular...",
+        "AlertnessA mental factor which is a type of wisdom that examines our activity of body, speech and mind, and knows whethe...",
+        "AryadevaA third century AD Indian Buddhist scholar and meditation master, who was a disciple of Nagarjuna."
+      ]
+    },
+    "Small-Caps": {
+      "count": 135,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "span"
+      ],
+      "sections_count": 14,
+      "samples": [
+        "OM",
+        "HUM",
+        "AH"
+      ]
+    },
+    "Text-1st-para-space-below": {
+      "count": 101,
+      "role": "BODY_FIRST_PARA",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 20,
+      "samples": [
+        "It is very pleasing to have this opportunity to explain the method for practising Vajrayana Mahamudra according to theMa...",
+        "InGuide to the Bodhisattva’s Way of LifeShantideva says:",
+        "Here, ‘nature’ refers to the ultimate nature of all phenomena, which is their emptiness, or lack of inherent existence. ..."
+      ]
+    },
+    "Text-heading-1": {
+      "count": 101,
+      "role": "HEADING_OTHER",
+      "heading_level": 1,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 22,
+      "samples": [
+        "AN INTRODUCTION TO THE GENERAL PATHS",
+        "THE SOURCE OF THE LINEAGE FROM WHICH THESE INSTRUCTIONS ARE DERIVED",
+        "THE ACTUAL EXPLANATION OF THE INSTRUCTIONS POSSESSING THIS LINEAGE"
+      ]
+    },
+    "Text-1st-para": {
+      "count": 100,
+      "role": "BODY_FIRST_PARA",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 32,
+      "samples": [
+        "Geshe Kelsang Gyatso is a fully accomplished meditation master and internationally renowned teacher of Buddhism who has ...",
+        "YongdzinLing Rinpoche",
+        "In 1980, Venerable Geshe Kelsang Gyatso Rinpoche gave an extensive commentary to Vajrayana Mahamudra to the fortunate st..."
+      ]
+    },
+    "Text-list-10-to-99-with-parenthesis-middle": {
+      "count": 92,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "(10)\tThe eyesense power",
+        "(11)\tThe ear sense power",
+        "(12)\tThe nose sense power"
+      ]
+    },
+    "Tharpa-Offices-Address": {
+      "count": 87,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Conishead Priory,",
+        "ULVERSTON,",
+        "Cumbria,"
+      ]
+    },
+    "Text-list-1-to-9-middle": {
+      "count": 86,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 14,
+      "samples": [
+        "2\tThe source of the lineage from which these instructions are derived",
+        "1\tThe preliminary practices",
+        "2\tThe actual practice"
+      ]
+    },
+    "Biblio-entry-2-lines": {
+      "count": 73,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "The Bodhisattva VowA practical guide to helping others. (2nd. edn., 1995)",
+        "Clear Light of BlissTantric meditation manual. (3rd. edn., 2014)",
+        "Essence of VajrayanaThe Highest Yoga Tantra practice of Heruka body mandala. (2nd. edn., 2017)"
+      ]
+    },
+    "Basic-Text-Frame": {
+      "count": 64,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "div"
+      ],
+      "sections_count": 53,
+      "samples": [
+        "Suggested study or reading order for beginners of books by Venerable Geshe Kelsang Gyatso RinpocheHow to Transform Your ...",
+        "Venerable Geshe Kelsang Gyatso Rinpoche",
+        "Clear Light of BlissTANTRIC MEDITATION MANUAL"
+      ]
+    },
+    "Text-list-1-to-9-last-full-space-below": {
+      "count": 59,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 15,
+      "samples": [
+        "3\tThe actual explanation of the instructions possessing this lineage",
+        "3\tThe concluding stages",
+        "2\tThe uncommon preliminary practices"
+      ]
+    },
+    "Text-list-1-to-9-with-parenthesis-middle": {
+      "count": 58,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 5,
+      "samples": [
+        "(2)\tAll contaminated things are the nature of suffering",
+        "(3)\tAll phenomena are selfless",
+        "(2)\tThe water element wind"
+      ]
+    },
+    "Text-2nd-para-full-space-below": {
+      "count": 58,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 22,
+      "samples": [
+        "The second stage of causal-time Mahamudra is the Mahamudra that is theunion of the two truths: the conventional and the ...",
+        "Prayers of Request to the Mahamudra Lineage Guruscan be found in Appendix II. If we are sincerely interested in studying...",
+        "To penetrate the precise points of our ownbody, we must concentrate on thechannels, the winds and the white and reddrops..."
+      ]
+    },
+    "Sadhana-verse-last": {
+      "count": 52,
+      "role": "VERSE_POETRY",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 4,
+      "samples": [
+        "OMBliss and Excellence",
+        "And holder of three immaculate sets of vows.",
+        "Is published with a pure wish to benefit migrators."
+      ]
+    },
+    "Text-list-1-to-9-begin": {
+      "count": 49,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 12,
+      "samples": [
+        "1\tAn introduction to the general paths",
+        "1\tThe guide of going forrefuge and generatingbodhichitta, the gateway to theBuddhadharma and theMahayana.",
+        "1\tHow to practise the Mahamudra that is theunion of bliss and emptiness"
+      ]
+    },
+    "ebook-page-break": {
+      "count": 48,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 48,
+      "samples": [
+        "page break",
+        "page break",
+        "page break"
+      ]
+    },
+    "Text-1st-para-full-space-below": {
+      "count": 47,
+      "role": "BODY_FIRST_PARA",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 17,
+      "samples": [
+        "May virtue and excellence increase.",
+        "If an explanation of these four were given here, this text would become too long. Those who are seriously interested in ...",
+        "For practitioners of Highest Yoga Tantra, thechannels, winds, and drops are the bases for attainingspontaneous great bli..."
+      ]
+    },
+    "Text-quotation-verse-middle": {
+      "count": 44,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 4,
+      "samples": [
+        "By depending upon this boat-like human form,",
+        "We can cross the great ocean of suffering.",
+        "Since such a vessel will be hard to find again,"
+      ]
+    },
+    "Text-2nd-para-space-below": {
+      "count": 38,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 18,
+      "samples": [
+        "May these teachings, originally given at Manjushri Centre in England and now made available in this book,Clear Light of ...",
+        "We also thank all the dedicated, senior Dharma students who assisted the author with the rendering of the English and wh...",
+        "The importance of engaging in these preparatory practices and of cultivating an impeccable motivation before attempting ..."
+      ]
+    },
+    "Bold": {
+      "count": 35,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "span"
+      ],
+      "sections_count": 11,
+      "samples": [
+        "The five",
+        "aggregates:",
+        "The four elements:"
+      ]
+    },
+    "TOC-Body-Text": {
+      "count": 32,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Suggested study or reading order for beginners of books by Venerable Geshe Kelsang Gyatso Rinpoche",
+        "About the Author",
+        "Illustrations"
+      ]
+    },
+    "Chapter-title-TOC-Level-1": {
+      "count": 30,
+      "role": "CHAPTER_TITLE",
+      "heading_level": 1,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 30,
+      "samples": [
+        "About the Author",
+        "Contents",
+        "Illustrations"
+      ]
+    },
+    "_idGenObjectStyle-Disabled": {
+      "count": 30,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "div"
+      ],
+      "sections_count": 30,
+      "samples": [
+        "Vajradhara",
+        "Manjushri",
+        "Je Tsongkhapa"
+      ]
+    },
+    "Normal": {
+      "count": 28,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "span"
+      ],
+      "sections_count": 8,
+      "samples": [
+        "THE MAHAMUDRA OF THE ORAL LINEAGE OF THE UNEQUALLED VIRTUOUS TRADITION",
+        "CONTENTS",
+        "PRAISE TO BUDDHA SHAKYAMUNI"
+      ]
+    },
+    "_1---Hyperlink": {
+      "count": 27,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "span"
+      ],
+      "sections_count": 3,
+      "samples": [
+        "www.tharpa.com",
+        "tharpa.co",
+        "m/uk"
+      ]
+    },
+    "line-drawings": {
+      "count": 27,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "div"
+      ],
+      "sections_count": 27,
+      "samples": [
+        "Vajradhara",
+        "Manjushri",
+        "Je Tsongkhapa"
+      ]
+    },
+    "Image-caption": {
+      "count": 27,
+      "role": "IMAGE_CAPTION",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 27,
+      "samples": [
+        "Vajradhara",
+        "Manjushri",
+        "Je Tsongkhapa"
+      ]
+    },
+    "Illustration-entry": {
+      "count": 26,
+      "role": "IMAGE_CAPTION",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Vajradhara",
+        "Manjushri",
+        "Je Tsongkhapa"
+      ]
+    },
+    "Text-list-1-to-9-with-parenthesis-begin": {
+      "count": 26,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 7,
+      "samples": [
+        "(1)\tAll products are impermanent",
+        "(1)\tThe upper tip of the centralchannel: thepoint between the eyebrows",
+        "(2)\tThe lower tip: thetip of the sex organ"
+      ]
+    },
+    "Also-by-other-title": {
+      "count": 23,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "How to Transform Your Life",
+        "How to Understand the Mind",
+        "Joyful Path of Good Fortune"
+      ]
+    },
+    "Index-Section-Head": {
+      "count": 23,
+      "role": "SECTION_HEADING",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "Tharpa-Offices-Address-Title": {
+      "count": 18,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Tharpa UK",
+        "Tharpa US",
+        "Tharpa Asia"
+      ]
+    },
+    "Tharpa-Offices-Address-Last": {
+      "count": 18,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Email:info.uk@tharpa.com",
+        "Email:info.us@tharpa.com",
+        "Email:info.asia@tharpa.com"
+      ]
+    },
+    "Study-program-center-address": {
+      "count": 17,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "NKT-IKBUCentral Office",
+        "Conishead Priory",
+        "Ulverston, Cumbria,"
+      ]
+    },
+    "Sadhana-verse-Liberating-Prayer-middle": {
+      "count": 16,
+      "role": "VERSE_POETRY",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "O Blessed One, Shakyamuni Buddha,",
+        "Precious treasury of compassion,",
+        "You, who love all beings without exception,"
+      ]
+    },
+    "Text-quotation-verse-italic-begin": {
+      "count": 15,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 4,
+      "samples": [
+        "For the sake of all sentient beings",
+        "Eternally I shall go for refuge",
+        "I prostrate and go for refuge to my Spiritual Guide"
+      ]
+    },
+    "Text-quotation-prose-single": {
+      "count": 15,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 7,
+      "samples": [
+        "Now I have become the actualEnjoyment Body Buddha Heruka.",
+        "Instantly my mind, in the form of a beam of blue light, transforms into Heruka, blue in colour with one face and two arm...",
+        "Now I have become the actualEmanation Body Buddha Heruka."
+      ]
+    },
+    "Text-list-10-to-99-with-parenthesis-last": {
+      "count": 15,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 4,
+      "samples": [
+        "(10)\tThe wheel of fire: the centre of thechannel wheel located midway between the throat and the heartchannel wheels, ha...",
+        "(10)\tThe definitely-moving wind",
+        "(15)\tThe mental power"
+      ]
+    },
+    "Sadhana-heading-3": {
+      "count": 13,
+      "role": "HEADING_OTHER",
+      "heading_level": 3,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "Going for refuge",
+        "Generating the supreme good heart, bodhichitta",
+        "Guru yoga"
+      ]
+    },
+    "Editorial-info": {
+      "count": 12,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "This digital edition published 2019",
+        "The right of Geshe Kelsang Gyatso to be identified as author of this work has been asserted by him in accordance with th...",
+        "No part of this book may be reproduced in any form or by any means except for the quotation of brief passages for the pu..."
+      ]
+    },
+    "Text-quotation-verse-italic-middle": {
+      "count": 12,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 3,
+      "samples": [
+        "I will drink the nectar of this instruction",
+        "So that I may attain Buddhahood within this life",
+        "To Buddha, Dharma and Sangha."
+      ]
+    },
+    "Text-list-1-to-9-with-parenthesis-last": {
+      "count": 12,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 6,
+      "samples": [
+        "(4)\tOnlynirvana is peace",
+        "(5)\tThepervading wind",
+        "(2)\tMeditating on a hollow body"
+      ]
+    },
+    "Text-heading-3-italics-brackets": {
+      "count": 12,
+      "role": "HEADING_OTHER",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "(1) An illusion",
+        "(2) A reflection of the moon in water",
+        "(3) The body’s shadow"
+      ]
+    },
+    "Text-Signature-Author-2-lines-plus": {
+      "count": 9,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 3,
+      "samples": [
+        "Roy Tyson,",
+        "Administrative Director,",
+        "Manjushri Kadampa Meditation Centre,"
+      ]
+    },
+    "Sadhana-verse-last-full-space-below": {
+      "count": 9,
+      "role": "VERSE_POETRY",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "Homage to the Mahamudra",
+        "Through your blessings may they become inseparably one.",
+        "Go for refuge to Buddha, Dharma and Sangha.\t(3x)"
+      ]
+    },
+    "Sadhana-heading-4": {
+      "count": 9,
+      "role": "HEADING_OTHER",
+      "heading_level": 4,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Visualization and Meditation",
+        "Inviting the Wisdom Beings",
+        "The Practice of the Seven Limbs"
+      ]
+    },
+    "Index-level-1-space-below": {
+      "count": 9,
+      "role": "BACK_MATTER",
+      "heading_level": 1,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "attachment5,173,177,180",
+        "cyclic existence.Seesamsara",
+        "dullness141"
+      ]
+    },
+    "Index-level-3-space-below": {
+      "count": 9,
+      "role": "BACK_MATTER",
+      "heading_level": 3,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Body; Truth Body",
+        "light",
+        "Middle Way217"
+      ]
+    },
+    "Sadhana-heading-2": {
+      "count": 8,
+      "role": "HEADING_OTHER",
+      "heading_level": 2,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 6,
+      "samples": [
+        "THE MAHAMUDRA OF THE ORAL LINEAGE OF THE UNEQUALLED VIRTUOUS TRADITION",
+        "CONTENTS",
+        "PRAISE TO BUDDHA SHAKYAMUNI"
+      ]
+    },
+    "Sadhana-verse-Liberating-Prayer-last": {
+      "count": 8,
+      "role": "VERSE_POETRY",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Bestower of supreme inner peace,",
+        "And you guide us to the liberating path.",
+        "And your mind is refuge for all living beings."
+      ]
+    },
+    "Editorial-info-no-space-below": {
+      "count": 7,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Second edition totally reset and revised 1992 - 3 Impressions",
+        "Third edition reset and revised 2014 - Impression 2 (2019)",
+        "All rights reserved."
+      ]
+    },
+    "Text-quotation-verse-last": {
+      "count": 7,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 4,
+      "samples": [
+        "This is no time to sleep, you fool!",
+        "Dorjechang Kelsang Gyatso Rinpoche",
+        "Therefore, seek instruction from qualified Masters."
+      ]
+    },
+    "Small-Caps-Italic": {
+      "count": 7,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "span"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "HUM",
+        "HUM",
+        "HAM, OM,"
+      ]
+    },
+    "Editorial-info-addresses": {
+      "count": 6,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Tharpa Publications UK",
+        "Conishead Priory",
+        "Ulverston, Cumbria"
+      ]
+    },
+    "Sadhana-colophon": {
+      "count": 6,
+      "role": "FRONT_MATTER",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 5,
+      "samples": [
+        "This book,Clear Light of Bliss, is the teachings of Venerable Geshe Kelsang Gyatso Rinpoche. These teachings were record...",
+        "Colophon:This condensed meaning, or outline, ofClear Light of Bliss, a commentary to the practice of Mahamudra in Vajray...",
+        "Colophon:This prayer was composed by Venerable Geshe Kelsang Gyatso Rinpoche and is recited at the beginning of teaching..."
+      ]
+    },
+    "Sadhana-instruction-middle-para": {
+      "count": 6,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "In this way we train sincerely in one single meditation ongeneration stage possessing these three characteristics. Holdi...",
+        "If we wish to practise completion stage meditation, we should change ourself through imagination from Heruka with four f...",
+        "The words,‘Holding vajra and bell I generate as the Deity’, refer to the first three commitments of the family of Buddha..."
+      ]
+    },
+    "Study-program-text-space-below": {
+      "count": 6,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "The Foundation Programme provides an opportunity to deepen our understanding and experience of Buddhism through a system...",
+        "The benefits of studying and practising these texts are as follows:",
+        "(1)Joyful Path of Good Fortune– we gain the ability to put all Buddha’s teachings of both Sutra and Tantra into practice..."
+      ]
+    },
+    "Sadhana-prose-space-below": {
+      "count": 5,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Due to my making requests in this way, all the Buddhas of the ten directions dissolve into Je Tsongkhapa who is insepara...",
+        "In the vast space of emptiness of all phenomena, the nature of my purified mistaken appearance of all phenomena – which ...",
+        "At my heart is wisdom being Buddha Heruka, definitive Heruka."
+      ]
+    },
+    "Study-Program-List-middle": {
+      "count": 5,
+      "role": "LIST",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "1Joyful Path of Good Fortune– a commentary to Atisha’s Lamrim instructions, the stages of the path to enlightenment.",
+        "2Universal Compassion– a commentary to Bodhisattva Chekhawa’sTraining the Mind in Seven Points.",
+        "3The New Eight Steps to Happiness– a commentary to Bodhisattva Langri Tangpa’sEight Verses of Training the Mind."
+      ]
+    },
+    "Text-quotation-verse-italic-last": {
+      "count": 4,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 3,
+      "samples": [
+        "Through the profound path of Secret Mantra.",
+        "I shall become Heruka.",
+        "Without the slightest difficulty or discomfort."
+      ]
+    },
+    "Text-quotation-verse-begin": {
+      "count": 4,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 4,
+      "samples": [
+        "Vajradhara",
+        "Do not rely upon the person, but upon theDharma.",
+        "If there were a truly existent I,"
+      ]
+    },
+    "Text-list-1-to-9-last": {
+      "count": 4,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 4,
+      "samples": [
+        "4\tThe guide ofGuru yoga, the gateway to receivingblessings.",
+        "8\tAn explanation of extraordinary blazing and dripping",
+        "3\tThe essential point of ascertaining the absence of difference"
+      ]
+    },
+    "Text-title-2": {
+      "count": 4,
+      "role": "BODY_TEXT",
+      "heading_level": 2,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 4,
+      "samples": [
+        "CHART 1  THE FOUR MAJOR CHANNEL WHEELS",
+        "CHART 2:  THE SPOKES OF THE HEARTCHANNEL WHEEL",
+        "CHART 3: THE ROOT WINDS"
+      ]
+    },
+    "Chapter-title-TOC-Level-2": {
+      "count": 4,
+      "role": "CHAPTER_TITLE",
+      "heading_level": 2,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 4,
+      "samples": [
+        "The Condensed Meaning of the Text",
+        "Prayers of Request to the Mahamudra Lineage Gurus",
+        "Introduction"
+      ]
+    },
+    "Sadhana-instruction-full-space-below": {
+      "count": 4,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "At this point we imagine that wisdom being Je Tsongkhapa together with his retinue dissolves into the assembly of Guru S...",
+        "We meditate on this belief single-pointedly. This meditation is called ‘training in definitive Guru yoga’. We should rep...",
+        "When we recite this mantra we are making requests to wisdom being Buddha Heruka with Vajravarahi, and his retinue of Her..."
+      ]
+    },
+    "Biblio-text": {
+      "count": 4,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Geshe Kelsang Gyatso is a highly respected meditation master and scholar of the Mahayana Buddhist tradition founded by J...",
+        "The following books by Geshe Kelsang are all published by Tharpa Publications.",
+        "Venerable Geshe Kelsang Gyatso Rinpoche has also supervised the translation of a collection of essential sadhanas, or ri..."
+      ]
+    },
+    "Biblio-title-entry": {
+      "count": 4,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "Books",
+        "Sadhanas and Other Booklets",
+        "To find your local Kadampa centre"
+      ]
+    },
+    "Study-program-text-2nd-para": {
+      "count": 4,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "The lineage of these teachings, both their oral transmission and blessings, was then passed from Teacher to disciple, sp...",
+        "Kadampa Buddhism was first introduced to the modern world in 1977 by the renowned Buddhist Master, Venerable Geshe Kelsa...",
+        "The Kadampa Buddhism of theNKT-IKBUis an entirely independent Buddhist tradition and has no political affiliations. It i..."
+      ]
+    },
+    "Study-program-text-full-space-below": {
+      "count": 4,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "The General Programme provides a basic introduction to Buddhist view, meditation and practice that is suitable for begin...",
+        "(6)How to Understand the Mind– we understand the relationship between our mind and its external objects. If we understan...",
+        "All Kadampa Buddhist Centres are open to the public. Every year we celebrate Festivals in many countries throughout the ..."
+      ]
+    },
+    "Profits": {
+      "count": 4,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "NKT-IKBU International Temples Project",
+        "and the profit from its sale is designated for public benefit through this fund.",
+        "[Reg. Charity number 1015054 (England)]"
+      ]
+    },
+    "Text-quotation-prose-single-last": {
+      "count": 3,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "All worlds and their beings melt into blue light, which then dissolves into me. My body gradually melts into light simul...",
+        "This is me; I am the actual Truth Body Buddha Heruka.",
+        "From the state of emptiness of the Truth Body, my mind instantly transforms into a small beam of blue light, the height ..."
+      ]
+    },
+    "Sadhana-instruction-first-para": {
+      "count": 3,
+      "role": "BODY_FIRST_PARA",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "At this point, (1) while experiencing great bliss and emptiness, (2) we meditate on the clear appearance of the mandala ...",
+        "Recite at least as many mantras as you have promised.",
+        "All nineteen commitments are referred to in this verse. The words,‘I go for refuge to the . . . Three Jewels’, refer to ..."
+      ]
+    },
+    "Sadhana-instruction-last-para": {
+      "count": 3,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "Then, when we need to rest from meditation, we can practise mantra recitation.",
+        "The ‘three-OM’ mantra is the union of the essence and close essence mantras of Vajravarahi. The meaning of this mantra i...",
+        "More detail on the vows and commitments of Secret Mantra can be found in the bookTantric Grounds and Paths."
+      ]
+    },
+    "Sadhana-verse-x3-full-space-below": {
+      "count": 3,
+      "role": "VERSE_POETRY",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "(21x, 100x, etc.)",
+        "(7x, 21x, 100x, etc.)",
+        "(3x)"
+      ]
+    },
+    "Sadhana-heading-3-centre": {
+      "count": 3,
+      "role": "HEADING_OTHER",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "GENERAL PROGRAMME",
+        "FOUNDATION PROGRAMME",
+        "TEACHER TRAINING PROGRAMME"
+      ]
+    },
+    "_1---Small-Caps---BOLD": {
+      "count": 3,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "span"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "GENERAL PROGRAMME",
+        "FOUNDATION PROGRAMME",
+        "TEACHER TRAINING PROGRAMME"
+      ]
+    },
+    "Index-level-2-space-below": {
+      "count": 3,
+      "role": "BACK_MATTER",
+      "heading_level": 2,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "illustration319",
+        "of impure winds45–46",
+        "ultimate view of217–220"
+      ]
+    },
+    "Tharpa-logo-country": {
+      "count": 2,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "UK • US • CANADA",
+        "AUSTRALIA • ASIA"
+      ]
+    },
+    "Chapter-title-TOC-Level-1-no-new-page": {
+      "count": 2,
+      "role": "CHAPTER_TITLE",
+      "heading_level": 1,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "Foreword",
+        "Study Programmes of Kadampa Buddhism"
+      ]
+    },
+    "Text-quotation-verse-single": {
+      "count": 2,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "The nature of all phenomena is the great seal.",
+        "Do not accept my teachings simply because I am called Buddha."
+      ]
+    },
+    "Text-quotation-prose-single-full-space-below": {
+      "count": 2,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "Inner fire meditation is like a wishfulfilling cow, from which we can receive an inexhaustible supply of nourishment.",
+        "The practice of Secret Mantra begins with generation stage, whereby I preventordinary appearance of myself and of all ot..."
+      ]
+    },
+    "Text-list-1-to-9-with-parenthesis-last-full-space-below": {
+      "count": 2,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 2,
+      "samples": [
+        "(3)\tHow Buddhahood is attained in a place that is neither",
+        "2\tTo strive to maintain purely all the vows we have taken"
+      ]
+    },
+    "Sadhana-content-level-2": {
+      "count": 2,
+      "role": "UNKNOWN",
+      "heading_level": 2,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Liberating Prayer",
+        "The Yoga of Buddha Heruka"
+      ]
+    },
+    "Sadhana-content-level-3": {
+      "count": 2,
+      "role": "UNKNOWN",
+      "heading_level": 3,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Praise to Buddha Shakyamuni",
+        "The essential self-generation sadhana of Heruka body mandala & Condensed Six-session Yoga"
+      ]
+    },
+    "Study-program-text": {
+      "count": 2,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Kadampa Buddhism is a Mahayana Buddhist school founded by the great Indian Buddhist Master Atisha (AD982-1054). His foll...",
+        "The Teacher Training Programme is designed for people who wish to train as authentic Dharma Teachers. In addition to com..."
+      ]
+    },
+    "Study-program-text-2nd-para-full-space-below": {
+      "count": 2,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Venerable Geshe Kelsang, or ‘Geshe-la’ as he is affectionately called by his students, has designed three special spirit...",
+        "A Special Teacher Training Programme is also held at Manjushri Kadampa Meditation Centre, Ulverston, England, and can be..."
+      ]
+    },
+    "Book-Title-inside": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Clear Light of Bliss"
+      ]
+    },
+    "Author-Colour-Image": {
+      "count": 1,
+      "role": "IMAGE_CAPTION",
+      "heading_level": null,
+      "tags": [
+        "div"
+      ],
+      "sections_count": 1,
+      "samples": []
+    },
+    "Also-by": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Suggested study or reading order for beginners of books by Venerable Geshe Kelsang Gyatso Rinpoche"
+      ]
+    },
+    "Author": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Venerable Geshe Kelsang Gyatso Rinpoche"
+      ]
+    },
+    "Book-title-title-page": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Clear Light of Bliss"
+      ]
+    },
+    "Chapter-subtitle": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "TANTRIC MEDITATION MANUAL"
+      ]
+    },
+    "tharpa-logo-image": {
+      "count": 1,
+      "role": "IMAGE_CAPTION",
+      "heading_level": null,
+      "tags": [
+        "div"
+      ],
+      "sections_count": 1,
+      "samples": []
+    },
+    "Tharpa-logo": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "THARPA PUBLICATIONS"
+      ]
+    },
+    "Editorial-info-no-space-below-1st": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "First published in 1982 by Wisdom Publications"
+      ]
+    },
+    "line-drawings-no-page-before-and-after": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "div"
+      ],
+      "sections_count": 1,
+      "samples": []
+    },
+    "Text-quotation-verse-italic-last-full-space-below": {
+      "count": 1,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "And unceasingly performing enlightened deeds."
+      ]
+    },
+    "Text-quotation-verse-italic-single": {
+      "count": 1,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "May everything be auspicious."
+      ]
+    },
+    "Text-quotation-verse-last-full-space-below": {
+      "count": 1,
+      "role": "BODY_TEXT",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "May everything be auspicious."
+      ]
+    },
+    "Sadhana-content-level-2-space-after": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": 2,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Prayers of Request to the MahamudraLineage Gurus"
+      ]
+    },
+    "Sadhana-prose-full-space-below": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "In the space before me is Guru Sumati Buddha Heruka – Je Tsongkhapa inseparable from my root Guru, Buddha Shakyamuni and..."
+      ]
+    },
+    "Sadhana-Mantra-indent-full-space-below": {
+      "count": 1,
+      "role": "BLOCK_QUOTE",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "IDAM GURU RATNA MANDALAKAM NIRYATAYAMI"
+      ]
+    },
+    "Sadhana-Mantra-indent": {
+      "count": 1,
+      "role": "BLOCK_QUOTE",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "OM SHRI VAJRA HE HE RU RU KAM HUM HUM PHAT DAKINI DZALA SHAMBARAM SOHA"
+      ]
+    },
+    "Sadhana-Mantra-indent-space-below": {
+      "count": 1,
+      "role": "BLOCK_QUOTE",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "OM OM OM SARWA BUDDHA DAKINIYE VAJRA WARNANIYE VAJRA BEROTZANIYE HUM HUM HUM PHAT PHAT PHAT SOHA"
+      ]
+    },
+    "Mantra": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "span"
+      ],
+      "sections_count": 1,
+      "samples": []
+    },
+    "Sadhana-Mantra-no-indent": {
+      "count": 1,
+      "role": "BLOCK_QUOTE",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "OM HUM BAM RIM RIM LIM LIM, KAM KHAM GAM GHAM NGAM, TSAM TSHAM DZAM DZHAM NYAM, TrAM THrAM DrAM DHrAM NAM, TAM THAM DAM ..."
+      ]
+    },
+    "Biblio-entry-2-lines-full-space-below": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Universal CompassionInspiring solutions for difficult times. (4th. edn., 2002)"
+      ]
+    },
+    "Biblio-entry-2-lines-space-below": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "The Yoga of White Tara, Buddha of Long Life."
+      ]
+    },
+    "nkt-logo-back-image": {
+      "count": 1,
+      "role": "IMAGE_CAPTION",
+      "heading_level": null,
+      "tags": [
+        "div"
+      ],
+      "sections_count": 1,
+      "samples": []
+    },
+    "Study-Program-List-last": {
+      "count": 1,
+      "role": "LIST",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "6How to Understand the Mind– a detailed explanation of the mind, based on the works of the Buddhist scholars Dharmakirti..."
+      ]
+    },
+    "Tharpa-Offices-Text": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "Tharpa books are currently published in English (UK and US), Chinese, French, German, Italian, Japanese, Portuguese and ..."
+      ]
+    },
+    "Index-Text": {
+      "count": 1,
+      "role": "BACK_MATTER",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "The letter ‘g’ indicates an entry in the glossary"
+      ]
+    },
+    "temple-image": {
+      "count": 1,
+      "role": "IMAGE_CAPTION",
+      "heading_level": null,
+      "tags": [
+        "div"
+      ],
+      "sections_count": 1,
+      "samples": []
+    },
+    "Profits-top": {
+      "count": 1,
+      "role": "UNKNOWN",
+      "heading_level": null,
+      "tags": [
+        "p"
+      ],
+      "sections_count": 1,
+      "samples": [
+        "This eBook is published under the auspices of the"
+      ]
+    }
+  },
+  "classes_by_role": {
+    "UNKNOWN": [
+      {
+        "class": "Italic",
+        "count": 520,
+        "level": null
+      },
+      {
+        "class": "Bold-Italic",
+        "count": 236,
+        "level": null
+      },
+      {
+        "class": "Small-Caps",
+        "count": 135,
+        "level": null
+      },
+      {
+        "class": "Tharpa-Offices-Address",
+        "count": 87,
+        "level": null
+      },
+      {
+        "class": "Biblio-entry-2-lines",
+        "count": 73,
+        "level": null
+      },
+      {
+        "class": "Basic-Text-Frame",
+        "count": 64,
+        "level": null
+      },
+      {
+        "class": "ebook-page-break",
+        "count": 48,
+        "level": null
+      },
+      {
+        "class": "Bold",
+        "count": 35,
+        "level": null
+      },
+      {
+        "class": "_idGenObjectStyle-Disabled",
+        "count": 30,
+        "level": null
+      },
+      {
+        "class": "Normal",
+        "count": 28,
+        "level": null
+      },
+      {
+        "class": "_1---Hyperlink",
+        "count": 27,
+        "level": null
+      },
+      {
+        "class": "line-drawings",
+        "count": 27,
+        "level": null
+      },
+      {
+        "class": "Also-by-other-title",
+        "count": 23,
+        "level": null
+      },
+      {
+        "class": "Tharpa-Offices-Address-Title",
+        "count": 18,
+        "level": null
+      },
+      {
+        "class": "Tharpa-Offices-Address-Last",
+        "count": 18,
+        "level": null
+      },
+      {
+        "class": "Study-program-center-address",
+        "count": 17,
+        "level": null
+      },
+      {
+        "class": "Editorial-info",
+        "count": 12,
+        "level": null
+      },
+      {
+        "class": "Editorial-info-no-space-below",
+        "count": 7,
+        "level": null
+      },
+      {
+        "class": "Small-Caps-Italic",
+        "count": 7,
+        "level": null
+      },
+      {
+        "class": "Editorial-info-addresses",
+        "count": 6,
+        "level": null
+      },
+      {
+        "class": "Study-program-text-space-below",
+        "count": 6,
+        "level": null
+      },
+      {
+        "class": "Sadhana-prose-space-below",
+        "count": 5,
+        "level": null
+      },
+      {
+        "class": "Sadhana-instruction-full-space-below",
+        "count": 4,
+        "level": null
+      },
+      {
+        "class": "Biblio-text",
+        "count": 4,
+        "level": null
+      },
+      {
+        "class": "Biblio-title-entry",
+        "count": 4,
+        "level": null
+      },
+      {
+        "class": "Study-program-text-full-space-below",
+        "count": 4,
+        "level": null
+      },
+      {
+        "class": "Profits",
+        "count": 4,
+        "level": null
+      },
+      {
+        "class": "_1---Small-Caps---BOLD",
+        "count": 3,
+        "level": null
+      },
+      {
+        "class": "Tharpa-logo-country",
+        "count": 2,
+        "level": null
+      },
+      {
+        "class": "Sadhana-content-level-2",
+        "count": 2,
+        "level": 2
+      },
+      {
+        "class": "Sadhana-content-level-3",
+        "count": 2,
+        "level": 3
+      },
+      {
+        "class": "Study-program-text",
+        "count": 2,
+        "level": null
+      },
+      {
+        "class": "Book-Title-inside",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Also-by",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Author",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Book-title-title-page",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Chapter-subtitle",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Tharpa-logo",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Editorial-info-no-space-below-1st",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "line-drawings-no-page-before-and-after",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Sadhana-content-level-2-space-after",
+        "count": 1,
+        "level": 2
+      },
+      {
+        "class": "Sadhana-prose-full-space-below",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Mantra",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Biblio-entry-2-lines-full-space-below",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Biblio-entry-2-lines-space-below",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Tharpa-Offices-Text",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Profits-top",
+        "count": 1,
+        "level": null
+      }
+    ],
+    "BACK_MATTER": [
+      {
+        "class": "Index-level-1",
+        "count": 412,
+        "level": 1
+      },
+      {
+        "class": "Index-level-3",
+        "count": 399,
+        "level": 3
+      },
+      {
+        "class": "Index-level-2",
+        "count": 252,
+        "level": 2
+      },
+      {
+        "class": "Glossary-entry",
+        "count": 153,
+        "level": null
+      },
+      {
+        "class": "Index-level-1-space-below",
+        "count": 9,
+        "level": 1
+      },
+      {
+        "class": "Index-level-3-space-below",
+        "count": 9,
+        "level": 3
+      },
+      {
+        "class": "Index-level-2-space-below",
+        "count": 3,
+        "level": 2
+      },
+      {
+        "class": "Index-Text",
+        "count": 1,
+        "level": null
+      }
+    ],
+    "BODY_TEXT": [
+      {
+        "class": "Text-2nd-para",
+        "count": 383,
+        "level": null
+      },
+      {
+        "class": "Text-list-10-to-99-with-parenthesis-middle",
+        "count": 92,
+        "level": null
+      },
+      {
+        "class": "Text-list-1-to-9-middle",
+        "count": 86,
+        "level": null
+      },
+      {
+        "class": "Text-list-1-to-9-last-full-space-below",
+        "count": 59,
+        "level": null
+      },
+      {
+        "class": "Text-list-1-to-9-with-parenthesis-middle",
+        "count": 58,
+        "level": null
+      },
+      {
+        "class": "Text-2nd-para-full-space-below",
+        "count": 58,
+        "level": null
+      },
+      {
+        "class": "Text-list-1-to-9-begin",
+        "count": 49,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-verse-middle",
+        "count": 44,
+        "level": null
+      },
+      {
+        "class": "Text-2nd-para-space-below",
+        "count": 38,
+        "level": null
+      },
+      {
+        "class": "TOC-Body-Text",
+        "count": 32,
+        "level": null
+      },
+      {
+        "class": "Text-list-1-to-9-with-parenthesis-begin",
+        "count": 26,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-verse-italic-begin",
+        "count": 15,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-prose-single",
+        "count": 15,
+        "level": null
+      },
+      {
+        "class": "Text-list-10-to-99-with-parenthesis-last",
+        "count": 15,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-verse-italic-middle",
+        "count": 12,
+        "level": null
+      },
+      {
+        "class": "Text-list-1-to-9-with-parenthesis-last",
+        "count": 12,
+        "level": null
+      },
+      {
+        "class": "Text-Signature-Author-2-lines-plus",
+        "count": 9,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-verse-last",
+        "count": 7,
+        "level": null
+      },
+      {
+        "class": "Sadhana-instruction-middle-para",
+        "count": 6,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-verse-italic-last",
+        "count": 4,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-verse-begin",
+        "count": 4,
+        "level": null
+      },
+      {
+        "class": "Text-list-1-to-9-last",
+        "count": 4,
+        "level": null
+      },
+      {
+        "class": "Text-title-2",
+        "count": 4,
+        "level": 2
+      },
+      {
+        "class": "Study-program-text-2nd-para",
+        "count": 4,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-prose-single-last",
+        "count": 3,
+        "level": null
+      },
+      {
+        "class": "Sadhana-instruction-last-para",
+        "count": 3,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-verse-single",
+        "count": 2,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-prose-single-full-space-below",
+        "count": 2,
+        "level": null
+      },
+      {
+        "class": "Text-list-1-to-9-with-parenthesis-last-full-space-below",
+        "count": 2,
+        "level": null
+      },
+      {
+        "class": "Study-program-text-2nd-para-full-space-below",
+        "count": 2,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-verse-italic-last-full-space-below",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-verse-italic-single",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Text-quotation-verse-last-full-space-below",
+        "count": 1,
+        "level": null
+      }
+    ],
+    "VERSE_POETRY": [
+      {
+        "class": "Sadhana-verse-middle",
+        "count": 264,
+        "level": null
+      },
+      {
+        "class": "Sadhana-verse-last",
+        "count": 52,
+        "level": null
+      },
+      {
+        "class": "Sadhana-verse-Liberating-Prayer-middle",
+        "count": 16,
+        "level": null
+      },
+      {
+        "class": "Sadhana-verse-last-full-space-below",
+        "count": 9,
+        "level": null
+      },
+      {
+        "class": "Sadhana-verse-Liberating-Prayer-last",
+        "count": 8,
+        "level": null
+      },
+      {
+        "class": "Sadhana-verse-x3-full-space-below",
+        "count": 3,
+        "level": null
+      }
+    ],
+    "BODY_FIRST_PARA": [
+      {
+        "class": "Text-1st-para-space-below",
+        "count": 101,
+        "level": null
+      },
+      {
+        "class": "Text-1st-para",
+        "count": 100,
+        "level": null
+      },
+      {
+        "class": "Text-1st-para-full-space-below",
+        "count": 47,
+        "level": null
+      },
+      {
+        "class": "Sadhana-instruction-first-para",
+        "count": 3,
+        "level": null
+      }
+    ],
+    "HEADING_OTHER": [
+      {
+        "class": "Text-heading-1",
+        "count": 101,
+        "level": 1
+      },
+      {
+        "class": "Sadhana-heading-3",
+        "count": 13,
+        "level": 3
+      },
+      {
+        "class": "Text-heading-3-italics-brackets",
+        "count": 12,
+        "level": null
+      },
+      {
+        "class": "Sadhana-heading-4",
+        "count": 9,
+        "level": 4
+      },
+      {
+        "class": "Sadhana-heading-2",
+        "count": 8,
+        "level": 2
+      },
+      {
+        "class": "Sadhana-heading-3-centre",
+        "count": 3,
+        "level": null
+      }
+    ],
+    "CHAPTER_TITLE": [
+      {
+        "class": "Chapter-title-TOC-Level-1",
+        "count": 30,
+        "level": 1
+      },
+      {
+        "class": "Chapter-title-TOC-Level-2",
+        "count": 4,
+        "level": 2
+      },
+      {
+        "class": "Chapter-title-TOC-Level-1-no-new-page",
+        "count": 2,
+        "level": 1
+      }
+    ],
+    "IMAGE_CAPTION": [
+      {
+        "class": "Image-caption",
+        "count": 27,
+        "level": null
+      },
+      {
+        "class": "Illustration-entry",
+        "count": 26,
+        "level": null
+      },
+      {
+        "class": "Author-Colour-Image",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "tharpa-logo-image",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "nkt-logo-back-image",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "temple-image",
+        "count": 1,
+        "level": null
+      }
+    ],
+    "SECTION_HEADING": [
+      {
+        "class": "Index-Section-Head",
+        "count": 23,
+        "level": null
+      }
+    ],
+    "FRONT_MATTER": [
+      {
+        "class": "Sadhana-colophon",
+        "count": 6,
+        "level": null
+      }
+    ],
+    "LIST": [
+      {
+        "class": "Study-Program-List-middle",
+        "count": 5,
+        "level": null
+      },
+      {
+        "class": "Study-Program-List-last",
+        "count": 1,
+        "level": null
+      }
+    ],
+    "BLOCK_QUOTE": [
+      {
+        "class": "Sadhana-Mantra-indent-full-space-below",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Sadhana-Mantra-indent",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Sadhana-Mantra-indent-space-below",
+        "count": 1,
+        "level": null
+      },
+      {
+        "class": "Sadhana-Mantra-no-indent",
+        "count": 1,
+        "level": null
+      }
+    ]
+  },
+  "phase0_answers": {
+    "chapter_title_classes": [
+      "Chapter-title-TOC-Level-1",
+      "Chapter-title-TOC-Level-2",
+      "Chapter-title-TOC-Level-1-no-new-page"
+    ],
+    "section_heading_classes": [
+      "Index-Section-Head"
+    ],
+    "body_text_classes": [
+      "Text-2nd-para",
+      "Text-list-10-to-99-with-parenthesis-middle",
+      "Text-list-1-to-9-middle",
+      "Text-list-1-to-9-last-full-space-below",
+      "Text-list-1-to-9-with-parenthesis-middle",
+      "Text-2nd-para-full-space-below",
+      "Text-list-1-to-9-begin",
+      "Text-quotation-verse-middle",
+      "Text-2nd-para-space-below",
+      "TOC-Body-Text",
+      "Text-list-1-to-9-with-parenthesis-begin",
+      "Text-quotation-verse-italic-begin",
+      "Text-quotation-prose-single",
+      "Text-list-10-to-99-with-parenthesis-last",
+      "Text-quotation-verse-italic-middle",
+      "Text-list-1-to-9-with-parenthesis-last",
+      "Text-Signature-Author-2-lines-plus",
+      "Text-quotation-verse-last",
+      "Sadhana-instruction-middle-para",
+      "Text-quotation-verse-italic-last",
+      "Text-quotation-verse-begin",
+      "Text-list-1-to-9-last",
+      "Text-title-2",
+      "Study-program-text-2nd-para",
+      "Text-quotation-prose-single-last",
+      "Sadhana-instruction-last-para",
+      "Text-quotation-verse-single",
+      "Text-quotation-prose-single-full-space-below",
+      "Text-list-1-to-9-with-parenthesis-last-full-space-below",
+      "Study-program-text-2nd-para-full-space-below",
+      "Text-quotation-verse-italic-last-full-space-below",
+      "Text-quotation-verse-italic-single",
+      "Text-quotation-verse-last-full-space-below",
+      "Text-1st-para-space-below",
+      "Text-1st-para",
+      "Text-1st-para-full-space-below",
+      "Sadhana-instruction-first-para"
+    ],
+    "heading_levels": {
+      "1": "Text-heading-1",
+      "2": "Sadhana-heading-2",
+      "3": "Sadhana-heading-3",
+      "4": "Sadhana-heading-4"
+    }
+  }
+}
