@@ -14,15 +14,15 @@ secrets/
 # ============================================================================
 
 # Vector database
-vector_db/
+# vector_db/
 *.chroma
 
 # Embeddings (large JSON files)
-embeddings/
+# embeddings/
 all_embeddings*.json
 
 # Extracted text (if you want to keep these in git, comment this out)
-extracted_text/*.json
+# extracted_text/*.json
 
 # Logs
 logs/
@@ -102,7 +102,7 @@ $RECYCLE.BIN/
 # Project Specific - Large Files
 # ============================================================================
 # EPUB files (already extracted to JSON)
-epub_directory/
+# epub_directory/
 
 
 # Backup files
